@@ -1,0 +1,6 @@
+name = "foryou-inquiries"
+main = "index.js"
+compatibility_date = "2026-11-01"
+
+[vars]
+ALLOWED_ORIGINS = "https://4uforyou.com,https://www.4uforyou.com"
